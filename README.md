@@ -1,8 +1,8 @@
 # Web Scraping for Machine Learning
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/) 
 
-This guide explains how to collect, prepare, and use web-scraped data for machine learning projects, including [ETL](https://brightdata.com/blog/proxy-101/etl-pipeline) setup and model training tips. Before you proceed further, we recommend you get more familiar with Python web scraping. 
+This guide explains how to collect, prepare, and use web-scraped data for machine learning projects, including [ETL](https://brightdata.co.kr/blog/proxy-101/etl-pipeline) setup and model training tips. Before you proceed further, we recommend you get more familiar with Python web scraping. 
 
 - [Performing Scraping for Machine Learning](#performing-scraping-for-machine-learning)
 - [Using Machine Learning on Scraped Data](#using-machine-learning-on-scraped-data)
@@ -90,7 +90,7 @@ https://finance.yahoo.com/quote/NVDA/history/
 
 The page presents has filters to define how you want the data to be displayed:
 
-![filters that allow you to define how you want the data to be displayed](https://brightdata.com/wp-content/uploads/2024/11/image-53-1024x91.png)
+![filters that allow you to define how you want the data to be displayed](https://brightdata.co.kr/wp-content/uploads/2024/11/image-53-1024x91.png)
 
 To retrieve enough data for machine learning, you can filter them by 5 years. You can use this URL that includes the filter:
 
@@ -657,6 +657,6 @@ Once stored, the data is integrated into the ML workflow to **re-train and re-va
 
 ## Conclusion
 
-Need data for machine learning but not familiar with web scraping?  [Check out our solutions for efficient data retrieval](https://brightdata.com/use-cases/data-for-ai).  
+Need data for machine learning but not familiar with web scraping?  [Check out our solutions for efficient data retrieval](https://brightdata.co.kr/use-cases/data-for-ai).  
 
 Sign up for a free Bright Data account to try our scraper APIs or explore our datasets.
